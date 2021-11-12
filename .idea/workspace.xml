@@ -68,9 +68,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636753991029</updated>
       <workItem from="1636753992106" duration="1206000" />
+      <workItem from="1636755977609" duration="538000" />
     </task>
     <task id="LOCAL-00001" summary="First try?">
       <created>1636754643973</created>
@@ -96,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636754878820</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Anril">
+      <created>1636756076058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636756076058</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,24 +138,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First try?" />
     <MESSAGE value="Some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some changes" />
+    <MESSAGE value="Anril" />
+    <option name="LAST_COMMIT_MESSAGE" value="Anril" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="342" y="54" key="CommitChangelistDialog2" timestamp="1636754878713">
-      <screen x="62" y="25" width="1378" height="875" />
+    <state x="293" y="30" key="CommitChangelistDialog2" timestamp="1636756075889">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="293" y="30" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1636756075889" />
     <state x="342" y="54" key="CommitChangelistDialog2/62.25.1378.875@62.25.1378.875" timestamp="1636754878713" />
     <state x="560" y="385" key="Github.CreateGistDialog" timestamp="1636754446460">
       <screen x="62" y="25" width="1378" height="875" />
     </state>
     <state x="560" y="385" key="Github.CreateGistDialog/62.25.1378.875@62.25.1378.875" timestamp="1636754446460" />
-    <state x="351" y="199" key="Vcs.Push.Dialog.v2" timestamp="1636754993369">
-      <screen x="62" y="25" width="1378" height="875" />
+    <state x="302" y="179" key="Vcs.Push.Dialog.v2" timestamp="1636756170734">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="302" y="179" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1636756170734" />
     <state x="351" y="199" key="Vcs.Push.Dialog.v2/62.25.1378.875@62.25.1378.875" timestamp="1636754993369" />
   </component>
 </project>
