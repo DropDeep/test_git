@@ -68,4 +68,18 @@
     <MESSAGE value="First try?" />
     <option name="LAST_COMMIT_MESSAGE" value="First try?" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="54" key="CommitChangelistDialog2" timestamp="1636754643834">
+      <screen x="62" y="25" width="1378" height="875" />
+    </state>
+    <state x="342" y="54" key="CommitChangelistDialog2/62.25.1378.875@62.25.1378.875" timestamp="1636754643834" />
+    <state x="560" y="385" key="Github.CreateGistDialog" timestamp="1636754446460">
+      <screen x="62" y="25" width="1378" height="875" />
+    </state>
+    <state x="560" y="385" key="Github.CreateGistDialog/62.25.1378.875@62.25.1378.875" timestamp="1636754446460" />
+    <state x="351" y="199" key="Vcs.Push.Dialog.v2" timestamp="1636754702083">
+      <screen x="62" y="25" width="1378" height="875" />
+    </state>
+    <state x="351" y="199" key="Vcs.Push.Dialog.v2/62.25.1378.875@62.25.1378.875" timestamp="1636754702083" />
+  </component>
 </project>
