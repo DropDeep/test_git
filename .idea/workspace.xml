@@ -28,6 +28,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bc71efb9-3b64-415c-9760-fb6b0aaf3ed4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chlen.css" beforeDir="false" afterPath="$PROJECT_DIR$/chlen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebala.js" beforeDir="false" afterPath="$PROJECT_DIR$/ebala.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huita.html" beforeDir="false" afterPath="$PROJECT_DIR$/huita.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +77,23 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node_modules/slick-1.8.1/slick" />
+      <recent name="$PROJECT_DIR$/node_modules/slick-1.8.1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ebala.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ebala.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ebala.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,6 +105,10 @@
       <updated>1636753991029</updated>
       <workItem from="1636753992106" duration="1206000" />
       <workItem from="1636755977609" duration="538000" />
+      <workItem from="1636757848638" duration="303000" />
+      <workItem from="1636760765436" duration="3000" />
+      <workItem from="1636909530026" duration="7393000" />
+      <workItem from="1636924143182" duration="9482000" />
     </task>
     <task id="LOCAL-00001" summary="First try?">
       <created>1636754643973</created>
@@ -110,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636756076058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HTML changes">
+      <created>1636757954327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636757954327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HTML changes">
+      <created>1636758053784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636758053784</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,22 +179,51 @@
     <MESSAGE value="First try?" />
     <MESSAGE value="Some changes" />
     <MESSAGE value="Anril" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anril" />
+    <MESSAGE value="HTML changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTML changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="293" y="30" key="CommitChangelistDialog2" timestamp="1636756075889">
+    <state x="293" y="30" key="CommitChangelistDialog2" timestamp="1636758053678">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="293" y="30" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1636756075889" />
+    <state x="293" y="30" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1636758053678" />
     <state x="342" y="54" key="CommitChangelistDialog2/62.25.1378.875@62.25.1378.875" timestamp="1636754878713" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1636758151462">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1636758151462" />
     <state x="560" y="385" key="Github.CreateGistDialog" timestamp="1636754446460">
       <screen x="62" y="25" width="1378" height="875" />
     </state>
     <state x="560" y="385" key="Github.CreateGistDialog/62.25.1378.875@62.25.1378.875" timestamp="1636754446460" />
-    <state x="302" y="179" key="Vcs.Push.Dialog.v2" timestamp="1636756170734">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1636934978453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="302" y="179" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1636756170734" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1636934978453" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1636934978452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1636934978452" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1636934978451">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1636934978451" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1636934978452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1636934978452" />
+    <state x="302" y="179" key="Vcs.Push.Dialog.v2" timestamp="1636758087514">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="302" y="179" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1636758087514" />
     <state x="351" y="199" key="Vcs.Push.Dialog.v2/62.25.1378.875@62.25.1378.875" timestamp="1636754993369" />
+    <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636757854577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1636757854577" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1636931496650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1636931496650" />
   </component>
 </project>
