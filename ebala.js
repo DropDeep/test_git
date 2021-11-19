@@ -7,30 +7,32 @@ $(window).on('load', function() {
         autoplaySpeed: 2000,
         fade: true,
         cssEase: 'linear',
-        arrows: true
+        prevArrow:'#prev',
+        nextArrow: '#next'
     });
 });
 
-// let test = document.getComputedStyle(document.querySelector('.slick-prev'), ':before').style.setProperty('content','test')
-
-// window.getComputedStyle(
-//     document.querySelector('slick-prev'), ':before'
-// ).style.setProperty('content', 'test')
-
-// let anotherOne = document.querySelector('root').style.setProperty('--content-left', 'something')
+$('.Slider').on('afterChange', function(event, slick, currentSlide, nextSlide){
+    let prevButton = document.querySelector('#prev');
+    let nextButton = document.querySelector('#next')
 
 
-// let element = document.querySelector('.slick-prev');
-// let styles = window.getComputedStyle(element,':before')
-// let content = styles['content'].style.setProperty('content', 'obnoenbepir');
+    let changeArrowName = function () {
+        if (currentSlide == 0) {
+            prevButton.innerHTML = 'Повторити';
+            nextButton.innerHTML = 'Радіти';
+        }
+        if (currentSlide == 1) {
+            prevButton.innerHTML = 'Жити';
+            nextButton.innerHTML = 'Повторити';
+        }
+        if (currentSlide == 2) {
+            prevButton.innerHTML = 'Радіти';
+            nextButton.innerHTML = 'Жити';
+        }
+    }
 
-
-
-let lastOne = document.querySelector('.Slider');
-lastOne.style.setProperty('--content-left', 'test');
-
-
-
-
+    changeArrowName()
+    })
 
 
