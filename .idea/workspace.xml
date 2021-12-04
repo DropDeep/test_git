@@ -26,18 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc71efb9-3b64-415c-9760-fb6b0aaf3ed4" name="Default Changelist" comment="HTML changes">
-      <change afterPath="$PROJECT_DIR$/img/Mask Group 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Mask Group 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle 3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chlen.css" beforeDir="false" afterPath="$PROJECT_DIR$/chlen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebala.js" beforeDir="false" afterPath="$PROJECT_DIR$/ebala.js" afterDir="false" />
+    <list default="true" id="bc71efb9-3b64-415c-9760-fb6b0aaf3ed4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/huita.html" beforeDir="false" afterPath="$PROJECT_DIR$/huita.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ANRIL-house-by-Adapt-Exterior-Roof-5-1920.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ANRIL_house_nighttime_exterior-03-1-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ANRIL_house_nighttime_exterior-07-1-2.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +121,7 @@
       <workItem from="1638478985142" duration="200000" />
       <workItem from="1638566521005" duration="1920000" />
       <workItem from="1638569813934" duration="5509000" />
-      <workItem from="1638633881292" duration="3151000" />
+      <workItem from="1638633881292" duration="3591000" />
     </task>
     <task id="LOCAL-00001" summary="First try?">
       <created>1636754643973</created>
@@ -179,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637353459997</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HTML changes">
+      <created>1638652886883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638652886883</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
