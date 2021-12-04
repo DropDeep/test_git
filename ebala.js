@@ -1,10 +1,9 @@
-
 $(window).on('load', function() {
     $(".Slider").slick({
         slidesToShow: 1,
         slidesToScroll: 1,
-        // autoplay: true,
-        autoplaySpeed: 2000,
+        autoplay: true,
+        autoplaySpeed: 10000,
         fade: true,
         cssEase: 'linear',
         prevArrow:'#prev',
@@ -12,10 +11,13 @@ $(window).on('load', function() {
     });
 });
 
-$('.Slider').on('afterChange', function(event, slick, currentSlide, nextSlide){
-    let prevButton = document.querySelector('#prev');
-    let nextButton = document.querySelector('#next')
+let increaseDonut = gsap.to(".donut", {duration: 10, scale: 2, ease:Sine.easeOut});
 
+$('.Slider').on('afterChange', function(event, slick, currentSlide){
+    let prevButton = document.querySelector('#prev');
+    let nextButton = document.querySelector('#next');
+
+    increaseDonut.restart();
 
     let changeArrowName = function () {
         if (currentSlide == 0) {
@@ -33,6 +35,17 @@ $('.Slider').on('afterChange', function(event, slick, currentSlide, nextSlide){
     }
 
     changeArrowName()
-    })
+})
+
+// $('.Slider').on('afterChange', function() {
+//     increaseDonut.restart();
+// })
 
 
+
+
+// let donutAnimation = gsap.timeline();
+//
+// let increaseCircle  = gsap.fromTo('.donut', {scale:2, duration:10});
+//
+// donutAnimation.add(increaseCircle);
