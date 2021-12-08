@@ -1,10 +1,9 @@
-
 $(window).on('load', function() {
-    $(".Slider").slick({
+    $(".slider-main").slick({
         slidesToShow: 1,
         slidesToScroll: 1,
         // autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 10000,
         fade: true,
         cssEase: 'linear',
         prevArrow:'#prev',
@@ -12,10 +11,17 @@ $(window).on('load', function() {
     });
 });
 
-$('.Slider').on('afterChange', function(event, slick, currentSlide, nextSlide){
-    let prevButton = document.querySelector('#prev');
-    let nextButton = document.querySelector('#next')
+//remove inline-block from the slick-slider
+// document.getElementsByClassName('.slider-container').style.display = "none";
 
+
+let increaseDonut = gsap.to(".donut", {duration: 10, scale: 2, ease:Sine.easeOut});
+
+$('.slider-main').on('afterChange', function(event, slick, currentSlide){
+    let prevButton = document.querySelector('#prev');
+    let nextButton = document.querySelector('#next');
+
+    increaseDonut.restart();
 
     let changeArrowName = function () {
         if (currentSlide == 0) {
@@ -33,6 +39,4 @@ $('.Slider').on('afterChange', function(event, slick, currentSlide, nextSlide){
     }
 
     changeArrowName()
-    })
-
-
+})
