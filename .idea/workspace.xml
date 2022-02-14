@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:3try" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bc71efb9-3b64-415c-9760-fb6b0aaf3ed4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dgl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sstyl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Mask Group 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Mask Group 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Mask Group live.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Rectangle 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Rectangle 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Rectangle 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styleshit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styleshit.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styleshit.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chlen.css" beforeDir="false" afterPath="$PROJECT_DIR$/chlen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebala.js" beforeDir="false" afterPath="$PROJECT_DIR$/ebala.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huita.html" beforeDir="false" afterPath="$PROJECT_DIR$/huita.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +61,14 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="DropDeep &lt;dudarikm@gmail.com&gt;" />
         <option value="DropDeep" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2try" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -45,9 +83,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/node_modules/slick-1.8.1/slick" />
+      <recent name="$PROJECT_DIR$/node_modules/slick-1.8.1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ebala.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ebala.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ebala.js" />
+        <item itemvalue="Node.js.ebala.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,15 +119,146 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636753991029</updated>
-      <workItem from="1636753992106" duration="518000" />
+      <workItem from="1636753992106" duration="1206000" />
+      <workItem from="1636755977609" duration="538000" />
+      <workItem from="1636757848638" duration="303000" />
+      <workItem from="1636760765436" duration="3000" />
+      <workItem from="1636909530026" duration="7393000" />
+      <workItem from="1636924143182" duration="20045000" />
+      <workItem from="1637177795942" duration="8170000" />
+      <workItem from="1637339953770" duration="813000" />
+      <workItem from="1637343538654" duration="4613000" />
+      <workItem from="1638905640280" duration="16337000" />
     </task>
+    <task id="LOCAL-00001" summary="First try?">
+      <created>1636754643973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636754643973</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Some changes">
+      <created>1636754878820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636754878820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Anril">
+      <created>1636756076058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636756076058</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HTML changes">
+      <created>1636757954327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636757954327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HTML changes">
+      <created>1636758053784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636758053784</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HTML changes">
+      <created>1636992012147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636992012148</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="3try" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First try?" />
-    <option name="LAST_COMMIT_MESSAGE" value="First try?" />
+    <MESSAGE value="Some changes" />
+    <MESSAGE value="Anril" />
+    <MESSAGE value="HTML changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTML changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="293" y="30" key="CommitChangelistDialog2" timestamp="1636992011971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="293" y="30" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1636992011971" />
+    <state x="342" y="54" key="CommitChangelistDialog2/62.25.1378.875@62.25.1378.875" timestamp="1636754878713" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1636758151462">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1636758151462" />
+    <state x="406" y="245" key="EditFileWatcherDialog" timestamp="1638909026696">
+      <screen x="62" y="25" width="1378" height="875" />
+    </state>
+    <state x="406" y="245" key="EditFileWatcherDialog/62.25.1378.875@62.25.1378.875" timestamp="1638909026696" />
+    <state x="560" y="385" key="Github.CreateGistDialog" timestamp="1636754446460">
+      <screen x="62" y="25" width="1378" height="875" />
+    </state>
+    <state x="560" y="385" key="Github.CreateGistDialog/62.25.1378.875@62.25.1378.875" timestamp="1636754446460" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1637014313934">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1637014313934" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1637014313933">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1637014313933" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1637014313933">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1637014313933" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1637014313933">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1637014313933" />
+    <state x="260" y="98" key="SettingsEditor" timestamp="1638909014558">
+      <screen x="62" y="25" width="1378" height="875" />
+    </state>
+    <state x="260" y="98" key="SettingsEditor/62.25.1378.875@62.25.1378.875" timestamp="1638909014558" />
+    <state x="351" y="199" key="Vcs.Push.Dialog.v2" timestamp="1638653968964">
+      <screen x="62" y="25" width="1378" height="875" />
+    </state>
+    <state x="302" y="179" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1636992019302" />
+    <state x="351" y="199" key="Vcs.Push.Dialog.v2/62.25.1378.875@62.25.1378.875" timestamp="1638653968964" />
+    <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636757854577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1636757854577" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1636931496650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1636931496650" />
   </component>
 </project>
